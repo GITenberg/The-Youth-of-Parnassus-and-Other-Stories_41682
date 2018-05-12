@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2793
     wikipedia: http://en.wikipedia.org/wiki/Logan_Pearsall_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41682#The-Youth-of-Parnassus-and-Other-Stories
 gutenberg_issued: '2012-12-21'
 gutenberg_type: Text
 identifiers:
