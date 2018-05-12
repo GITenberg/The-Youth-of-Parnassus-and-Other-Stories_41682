@@ -1,0 +1,33 @@
+_repo: The-Youth-of-Parnassus-and-Other-Stories_41682
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41682-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Logan Pearsall
+    aliases:
+    - Smith, Lloyd Logan Pearsall
+    - Smith, L. Pearsall (Logan Pearsall)
+    birthdate: 1865
+    deathdate: 1946
+    gutenberg_agent_id: '2793'
+    url: http://www.gutenberg.org/2009/agents/2793
+    wikipedia: http://en.wikipedia.org/wiki/Logan_Pearsall_Smith
+description: ''
+gutenberg_issued: '2012-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'University of Oxford -- Fiction'
+tableOfContents: The youth of Parnassus -- The will to live -- The claim of the past
+  -- A broken journey -- The sub-warden -- Idyll -- Buller intervening -- The optimist.
+title: The Youth of Parnassus, and Other Stories
+url: http://www.gutenberg.org/ebooks/41682
